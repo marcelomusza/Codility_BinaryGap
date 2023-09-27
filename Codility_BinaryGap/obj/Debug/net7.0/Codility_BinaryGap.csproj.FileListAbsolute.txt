@@ -1,0 +1,14 @@
+C:\Users\Marce\source\repos\Training\Codility\Codility_BinaryGap\Codility_BinaryGap\bin\Debug\net7.0\Codility_BinaryGap.exe
+C:\Users\Marce\source\repos\Training\Codility\Codility_BinaryGap\Codility_BinaryGap\bin\Debug\net7.0\Codility_BinaryGap.deps.json
+C:\Users\Marce\source\repos\Training\Codility\Codility_BinaryGap\Codility_BinaryGap\bin\Debug\net7.0\Codility_BinaryGap.runtimeconfig.json
+C:\Users\Marce\source\repos\Training\Codility\Codility_BinaryGap\Codility_BinaryGap\bin\Debug\net7.0\Codility_BinaryGap.dll
+C:\Users\Marce\source\repos\Training\Codility\Codility_BinaryGap\Codility_BinaryGap\bin\Debug\net7.0\Codility_BinaryGap.pdb
+C:\Users\Marce\source\repos\Training\Codility\Codility_BinaryGap\Codility_BinaryGap\obj\Debug\net7.0\Codility_BinaryGap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marce\source\repos\Training\Codility\Codility_BinaryGap\Codility_BinaryGap\obj\Debug\net7.0\Codility_BinaryGap.AssemblyInfoInputs.cache
+C:\Users\Marce\source\repos\Training\Codility\Codility_BinaryGap\Codility_BinaryGap\obj\Debug\net7.0\Codility_BinaryGap.AssemblyInfo.cs
+C:\Users\Marce\source\repos\Training\Codility\Codility_BinaryGap\Codility_BinaryGap\obj\Debug\net7.0\Codility_BinaryGap.csproj.CoreCompileInputs.cache
+C:\Users\Marce\source\repos\Training\Codility\Codility_BinaryGap\Codility_BinaryGap\obj\Debug\net7.0\Codility_BinaryGap.dll
+C:\Users\Marce\source\repos\Training\Codility\Codility_BinaryGap\Codility_BinaryGap\obj\Debug\net7.0\refint\Codility_BinaryGap.dll
+C:\Users\Marce\source\repos\Training\Codility\Codility_BinaryGap\Codility_BinaryGap\obj\Debug\net7.0\Codility_BinaryGap.pdb
+C:\Users\Marce\source\repos\Training\Codility\Codility_BinaryGap\Codility_BinaryGap\obj\Debug\net7.0\Codility_BinaryGap.genruntimeconfig.cache
+C:\Users\Marce\source\repos\Training\Codility\Codility_BinaryGap\Codility_BinaryGap\obj\Debug\net7.0\ref\Codility_BinaryGap.dll
